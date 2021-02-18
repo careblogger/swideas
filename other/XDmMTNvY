@@ -1,0 +1,37 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ph">
+
+<head><base href="/lander/pl-uricare-b1/index.php">
+    <title>
+    Dėkojame!
+    </title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=320" />
+    <meta name="MobileOptimized" content="width=320" />
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed&subset=latin,cyrillic" rel='stylesheet' type='text/css'>
+    <link href="https://fonts.googleapis.com/css?family=Lobster&subset=latin,cyrillic" rel='stylesheet' type='text/css'>
+    <link media="all" rel="stylesheet" type="text/css" href="css/order-style.css" />
+    <script type="text/javascript" src="js/jquery.js"></script>
+    <script type="text/javascript" src="js/leadbit_success.js"></script>
+
+    
+</head>
+
+<body>
+<div id="wrapper">
+    <div class="container">
+        <span class="decoration">
+        </span>
+        <div class="order-block">
+            <div class="text-holder">
+                <h2><span>Dėkojame!</span> Jūsų užsakymas priimtas!
+                </h2>
+                <p>Mūsų operatorius su jumis susisieks ir patvirtins užsakymą. Jeigu Jūs įjungėte atsakiklį, išjunkite jį, kad mūsų operatorius galėtų pasiekti jus.<br>Siuntą pristatys kurjerių tarnyba. Apmokėsite, kai gausite siuntą!</p>
+            </div>
+
+        </div>
+    </div>
+
+</div>
+</body>
+
+</html>
